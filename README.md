@@ -24,7 +24,6 @@
 
 ## 📃 Come funziona il sito
 
-[![Mockup][product-screenshot]]()
 <img src="public\mockup.png" alt="Logo" width="800" height="800">
 
 1. **Home Page**:

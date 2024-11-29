@@ -1,6 +1,5 @@
 <a id="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Laravel][Laravel.com]][Laravel-url]
 [![vite][vite.com]][vite-url]
 [![tailwind][tailwind.com]][tailwind-url]
@@ -127,6 +126,8 @@
 Accedi al pannello di amministrazione tramite `/admin` e accedi con le credenziali di amministratore.
 
 I seed creano un utente Admin, usa root@mail.com:SuperSecret1! per accedere come Admin e assegnare il ruolo di Admin ad altri utenti.
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555

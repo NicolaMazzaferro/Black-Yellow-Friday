@@ -2,6 +2,12 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Laravel][Laravel.com]][Laravel-url]
+[![vite][vite.com]][vite-url]
+[![tailwind][tailwind.com]][tailwind-url]
+[![npm][npm.com]][npm-url]
+[![nodejs][nodejs.com]][nodejs-url]
+[![alpinejs][alpinejs.com]][alpinejs-url]
+[![mysql][mysql.com]][mysql-url]
 
 
 <br />
@@ -36,8 +42,6 @@
 4. **Ricerca**:
    - 🔎 Ricerca full-text per prodotti tramite TNTSearch.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## ⚙️ Tecnologie
 
@@ -69,7 +73,7 @@
 
 1. **Clona il Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NicolaMazzaferro/Black-Yellow-Friday
    cd Black-Yellow-Friday
    ```
 
@@ -125,15 +129,27 @@ Accedi al pannello di amministrazione tramite `/admin` e accedi con le credenzia
 
 I seed creano un utente Admin, usa root@mail.com:SuperSecret1! per accedere come Admin e assegnare il ruolo di Admin ad altri utenti.
 
-- **Funzionalità di ricerca**:
-Utilizza la barra di ricerca globale per trovare prodotti.
-
-- **Recensioni**:
-Lascia le recensioni ai prodotti dopo esserti registrato ed aver effettuato l' accesso.
-
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nicolamazzaferroweb/
+
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
+
+[vite.com]: https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
+[vite-url]: https://vite.dev/
+
+[tailwind.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwind-url]: https://tailwindcss.com/
+
+[npm.com]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[npm-url]: https://www.npmjs.com/
+
+[nodejs.com]: https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[nodejs-url]: https://nodejs.com
+
+[alpinejs.com]: https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black
+[alpinejs-url]: https://alpinejs.com
+
+[mysql.com]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: https://mysql.com

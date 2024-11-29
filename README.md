@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][[linkedin-url]]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Laravel][Laravel.com]][Laravel-url]
 
 
@@ -9,36 +9,37 @@
 
    <img src="public\header-bf.jpg" alt="Logo" width="160" height="80">
 
-  <h3 align="center">Black Yellow Friday</h3>
+  <h3 align="center">🎃 Black Yellow Friday 🎃</h3>
 
   <p align="center">
     Questo progetto è una piattaforma di e-commerce basata su Laravel progettata per mostrare e gestire prodotti con categorie, sconti e recensioni. Il sito offre un robusto backend basato su Laravel, Filament per le interfacce di amministrazione e Laravel Scout per le funzionalità di ricerca.
 </div>
 
 
-## Come funziona il sito
+## 📃 Come funziona il sito
 
 [![Mockup][product-screenshot]]()
+<img src="public\mockup.png" alt="Logo" width="800" height="800">
 
 1. **Home Page**:
-    - Visualizza categorie e prodotti.
-    - Barra di ricerca globale per prodotti con tecnologia Laravel Scout.
+    - 📷 Visualizza categorie e prodotti.
+    - 🔎 Barra di ricerca globale per prodotti con tecnologia Laravel Scout.
 
 2. **Pannello di amministrazione**:
-    - Gestito con Filament, consente operazioni CRUD per prodotti, categorie e utenti.
+    - 🗃️​ Gestito con Filament, consente operazioni CRUD per prodotti, categorie e utenti.
 
 3. **Funzionalità utente**:
-    - Funzionalità di registrazione/accesso (Laravel Fortify).
-    - Aggiungi recensioni di prodotti con valutazioni e immagini del profilo facoltative.
-    - Visualizza prodotti con sconti applicati.
+    - 🔏​ Funzionalità di registrazione/accesso (Laravel Fortify).
+    - 🖋️​ Aggiungi recensioni di prodotti con valutazioni e immagini del profilo facoltative.
+    - 💸​ Visualizza prodotti con sconti applicati.
 
 4. **Ricerca**:
-   - Ricerca full-text per prodotti tramite TNTSearch.
+   - 🔎 Ricerca full-text per prodotti tramite TNTSearch.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Tecnologie
+## ⚙️ Tecnologie
 
 ### Backend
 - **PHP**: ^8.2
@@ -51,25 +52,6 @@
 ### Frontend
 - **Tailwind CSS**: Usato per lo stile.
 - **Node.js and NPM**: Per la gestione degli strumenti di creazione del frontend.
-
----
-
-## Come funziona il sito
-
-1. **Home Page**:
-    - Visualizza categorie e prodotti.
-    - Barra di ricerca globale per prodotti con tecnologia Laravel Scout.
-
-2. **Pannello di amministrazione**:
-    - Gestito con Filament, consente operazioni CRUD per prodotti, categorie e utenti.
-
-3. **Funzionalità utente**:
-    - Funzionalità di registrazione/accesso (Laravel Fortify).
-    - Aggiungi recensioni di prodotti con valutazioni e immagini del profilo facoltative.
-    - Visualizza prodotti con sconti applicati.
-
-4. **Ricerca**:
-   - Ricerca full-text per prodotti tramite TNTSearch.
 
 ---
 
@@ -96,7 +78,7 @@
    composer install
    ```
 
-3. **Installa le dipendeze Node.js**:
+3. **Installa le dipendenze Node.js**:
    ```bash
    npm install
    ```
@@ -153,6 +135,5 @@ Lascia le recensioni ai prodotti dopo esserti registrato ed aver effettuato l' a
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nicolamazzaferroweb/
-[product-screenshot]: public\mockup.png
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
